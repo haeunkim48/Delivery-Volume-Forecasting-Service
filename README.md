@@ -11,7 +11,7 @@
 ### 프로젝트 과정
 데이터 수집 -> 분석 -> 변수선정 -> 모델 선정 -> 모델 생성 -> 대시보드 생성 (streamlit, tableau) -> 배포(GCP) godaddy.
 
-
+-------------------------------------------------------------------------------------------------------------------
 ### ｢MultiCampus] The 28th Data Analysis & Data Science Bootcamp Final Project (2023.10.27~2023.12.05)
 
 # Topic : Delivery Volume Forecasting and Anlaysis Service
