@@ -1,4 +1,4 @@
-### [멀티잇] 데이터분석 & 엔지니어 취업교육 28회차 최종프로젝트 (2023.10.27~2023.12.05)
+### [멀티캠퍼스] 데이터분석 & 엔지니어 취업교육 28회차 최종프로젝트 (2023.10.27~2023.12.05)
 
 # 주제 : 택배 물류 종합적 분석 및 예측 플랫폼
 
@@ -12,4 +12,13 @@
 데이터 수집 -> 분석 -> 변수선정 -> 모델 선정 -> 모델 생성 -> 대시보드 생성 (streamlit, tableau) -> 배포(GCP) godaddy.
 
 
+### ｢MultiCampus] The 28th Data Analysis & Data Science Bootcamp Final Project (2023.10.27~2023.12.05)
+
+# Topic : Delivery Volume Forecasting and Anlaysis Service
+
+### Streamlit Pages 
+Main page, prediction page, Team, interesting factors page, and etc.
+
+### Project Process 
+Data collection -> Analysis -> Decide variables -> Select models -> Create models -> Create dashboards (streamlit, tableau) -> Deploy (GCP) godaddy
 
